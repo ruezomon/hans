@@ -10,4 +10,4 @@ Mit unterstützung von Prof. Dr. Lord Michael Stifter (omnipontent), David Goved
 ## Unsere Lösung
 Wir haben HANS: einen Hochintelligenten, automatisierten Wasser-Kleinbot, der sich 
 
-<image src="./hand.jpg">
+<img src="./hand.jpg">
