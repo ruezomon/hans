@@ -10,5 +10,5 @@ Mit unterstützung von Prof. Dr. Lord Michael Stifter (omnipontent), David Goved
 ## Unsere Lösung
 Wir haben HANS: einen Hochintelligenten, automatisierten Wasser-Kleinbot, der sich 
 
-![H.A.N.S.](https://github.com/ruezomon/hans/hans.jpg)
+![H.A.N.S.](https://github.com/ruezomon/hans/blob/main/hans.jpg)
 
