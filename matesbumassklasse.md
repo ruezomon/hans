@@ -11,7 +11,7 @@ dem Weg von Schildkröten räumt und es zu anderen Meerestieren hinschmeißt. Di
 durch Wellen angetrieben, da Plastik ebenfalls von Wasser vorangetrieben wird. H.A.N.S. ist 99.5%
 aus Lego gebaut, seine Hände sind speziell aus Hartmetallen angefertig, aus tierfreundlichen
 Gründen. Es ist agressiv gegenüber Schiffen, dies dient ebenfalls zur Beschützung
-der Schildkröten.
+der Schildkröten. Da es aus Lego gebaut ist kann es auf Wasser gehen.
 
 This is a realistic representation of H.A.N.S.:
 ![H.A.N.S.](https://github.com/ruezomon/hans/blob/main/hans.jpg)
