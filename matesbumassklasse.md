@@ -1,14 +1,17 @@
 # Hoch Automatisiertes Nutzvoller Schildkrötenretter (H.A.N.S.)
 
 ## Das Problem
-Jedes Jahr sterben Tausende von Schildkröten an der Müllinvasion, ausgehend von uns, idiotischen, naiven, dummen, schrecklichen, vibecodenden, dummen, lausebubhaftigen und vom Bösen besessenen Menschen. 
+Jedes Jahr sterben Tausende von Schildkröten an der Müllinvasion, ausgehend von uns, idiotischen,
+naiven, dummen, schrecklichen, vibecodenden, dummen, lausebubhaftigen und vom Bösen besessenen Menschen.
 
-## Sex
-Wir schlagen eine Lösung vor: 
-Mit unterstützung von Prof. Dr. Lord Michael Stifter (omnipontent), David Govedarevic (formatter), Sanz (Claude Agent verwaltung), Claude (extern), und Kampi (lost). Gesponsert von robo4you btw
 
 ## Unsere Lösung
-Wir haben HANS: einen Hochintelligenten, automatisierten Wasser-Kleinbot, der sich 
+Wir haben H.A.N.S: einen Hochintelligenten, automatisierten Wasser-Kleinbot, der Plastik aus
+dem Weg von Schildkröten räumt und es zu anderen Meerestieren hinschmeißt. Die Konstruktion wird
+durch Wellen angetrieben, da Plastik ebenfalls von Wasser vorangetrieben wird. H.A.N.S. ist 99.5%
+aus Lego gebaut, seine Hände sind speziell aus Hartmetallen angefertig, aus tierfreundlichen
+Gründen. Es ist agressiv gegenüber Schiffen, dies dient ebenfalls zur Beschützung
+der Schildkröten.
 
+This is a realistic representation of H.A.N.S.:
 ![H.A.N.S.](https://github.com/ruezomon/hans/blob/main/hans.jpg)
-
